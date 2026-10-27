@@ -11,6 +11,11 @@ emissive materials; a positionable camera with depth of field; and a BVH to
 keep large scenes tractable. Rendering is parallel across CPUs and
 reproducible from a seed.
 
+<p align="center">
+  <img src="docs/cornell.png" width="360" alt="Cornell box with a glass sphere and a metal sphere">
+  <img src="docs/spheres.png" width="540" alt="Scattered spheres with Lambertian, metal and dielectric materials">
+</p>
+
 ## Install
 
 ```sh
