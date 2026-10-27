@@ -1,5 +1,7 @@
 # tracer
 
+[![ci](https://github.com/zg/tracer/actions/workflows/ci.yml/badge.svg)](https://github.com/zg/tracer/actions/workflows/ci.yml) [![Go Reference](https://pkg.go.dev/badge/github.com/zg/tracer.svg)](https://pkg.go.dev/github.com/zg/tracer) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 A path tracer. Ray tracing renders an image by following the path of light
 as pixels in an image plane and simulating its encounters with virtual
 objects.
